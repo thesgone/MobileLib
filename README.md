@@ -1,11 +1,12 @@
 MobileLib
 =========
 
-MobileLib, an open source library for mobile app development.
+MobileLib, a free-software/open source library for mobile app development.
 
 =========
 
 MobileLib is
+    
     Copyright (C) 2015
 
 Redistribution and use in source and binary forms, with or without
